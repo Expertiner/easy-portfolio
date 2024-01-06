@@ -11,21 +11,18 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](./images/website-first-version.png)
+![](./img/website-first-version.png)
 
 ### Links
 
-<!-- - Live Site URL: [https://expertiner.github.io/css_fundamentos/](https://expertiner.github.io/css_fundamentos/) -->
+- Live Site URL: [https://expertiner.github.io/easy-portfolio/](https://expertiner.github.io/easy-portfolio/)
 
 
 ## My process
@@ -34,21 +31,22 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 
 - Semantic HTML5 markup
 
-### What I learned
+<!-- ### What I learned
 
-- 
+-  -->
 
 ### Continued development
 
-- Concepts I'm still not completely comfortable with:
-  - 
+<!-- - Concepts I'm still not completely comfortable with:
+  -  -->
 
 - Techniques I want to refine and perfect:
   - `nav`
+  - margins and paddings.
 
-### Useful resources
+<!-- ### Useful resources
 
-- 
+-  -->
 
 <!--
 - [Example resource 1](https://www.markdownguide.org/basic-syntax/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
@@ -60,6 +58,8 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 - GitHub - [Andrey Alves](https://github.com/Expertiner)
 
 - Frontend Mentor - [@expertiner](https://www.frontendmentor.io/profile/Expertiner)
+
+- YouTube - [@andreyzices](https://www.youtube.com/channel/UCirtLAIX4JdTRy_Za6GKcwg)
 <!--
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 -->
